@@ -29,7 +29,8 @@ const aboutMe = {
   role: "React Native Developer",
   experience: "5+ years",
   passion: "Building impactful mobile applications",
-  currentFocus: "Healthcare & Education Technology"
+  currentFocus: "Healthcare & Education Technology",
+  myMotto: "Any organisation that designs a system will produce a design whose structure is a copy of the organisation's communication structure ( Robert C. Martin, Clean Architecture )"
 };
 ```
 
