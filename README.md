@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **React Native Developer** with 5+ years of experience building scalable mobile applications. I specialize in transforming innovative ideas into user-friendly mobile solutions that make a real impact.
+I'm a passionate **React Native Developer** with 4+ years of experience building scalable mobile applications. I specialize in transforming innovative ideas into user-friendly mobile solutions that make a real impact.
 
 🏆 **Key Achievement:** Co-founded startup that won **1st Place** in Central Bank of Egypt competition  
 📱 **Portfolio:** 11+ published apps with 10,000+ active users  
